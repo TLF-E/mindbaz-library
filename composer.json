@@ -9,6 +9,6 @@
         { "name": "Cesar Romero", "email": "romero.latorre@gmail.com" }
     ],
     "autoload": {
-	    "psr-0": { "": "src/" }
+        "classmap": ["src/"]
     }
 }
