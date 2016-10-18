@@ -33,5 +33,12 @@ class ArrayOfField
       $this->Field = $Field;
       return $this;
     }
-
+    
+    /**
+    * @return array
+    */
+    public function getFields()
+    {
+      return $this->Field;
+    }
 }
