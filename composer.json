@@ -1,12 +1,12 @@
 {
-    "name": "lancasters/mindbaz-library",
+    "name": "lancaster-solutions/mindbaz-library",
     "type": "library",
     "description": "MindBaz library to access their API",
     "keywords": ["API","Mailer","MindBaz"],
     "homepage": "http://www.mindbaz.com/",
     "license": "MIT",
     "authors": [
-        { "name": "Cesar Romero", "email": "romero.latorre@gmail.com" }
+        { "name": "Ghislain GAUCHER", "email": "dev@lancaster-solutions.com" }
     ],
     "autoload": {
         "classmap": ["src/"]
